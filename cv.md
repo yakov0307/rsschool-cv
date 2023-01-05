@@ -58,7 +58,7 @@
   <div>
     <h3>Languages:<h3>
   <ul>
-<li>English: B2
+<li>English: B1
   <li>Rusiian: native language
   </ul>
   </div>   
